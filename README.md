@@ -25,5 +25,10 @@ Schedule of beginner (that is me 0.0)
 >
 >https://www.jianshu.com/u/c5df9e229a67
 
+# Simple record:
+
+>[2019.11.13:](2019_11_13)
+>
+>Part1: 什么都没做 Part2: 什么都没做 Part3: 什么都没做
 
 # DDL：12.31
