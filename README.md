@@ -27,7 +27,7 @@ Schedule of beginner (that is me 0.0)
 
 # Simple record:
 
->[2019.11.13:](2019_11_13)
+>2019.11.13: [2019_11_13.md](2019_11_13.md)
 >
 >Part1: 什么都没做 Part2: 什么都没做 Part3: 什么都没做
 
