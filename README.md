@@ -9,10 +9,13 @@ Schedule of beginner (that is me 0.0)
 # Coding by python：
 
 >ApacheCN 机器学习实战
+>
 >https://space.bilibili.com/97678687/channel/detail?cid=13045
+>
 >https://space.bilibili.com/97678687/channel/detail?cid=22486
 
 >Kaggle
+>
 >https://space.bilibili.com/97678687/channel/detail?cid=76173
 
 # Paper：
